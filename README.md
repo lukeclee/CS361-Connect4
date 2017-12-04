@@ -4,3 +4,5 @@ built in Visual Studio 2017 using C++
 
 main.cpp given as part of the assignment
 currently working on game.h and player.h header files
+
+added game header to master branch
